@@ -1,0 +1,23 @@
+#root {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#message {
+	text-align: center;
+}
+
+.black {
+	background-color: black;
+	height: 100px;
+	width: 100px;
+	margin: 1em;
+}
+
+.blue {
+	background-color: blue;
+	height: 100px;
+	width: 100px;
+	margin: 1em;
+}
